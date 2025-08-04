@@ -1,4 +1,4 @@
-//1
+
 /*let nome = "Arkanus";
 let reinoOrigen = "Sistemolandia";
 let inimigo = "Legolas Adagorn";
